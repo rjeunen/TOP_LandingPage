@@ -13,6 +13,10 @@ footer{
     background-color: #1F2937;
     color: white;
 }
+.wrapper{
+    width: 80%;
+    margin: 0 auto;
+}
 .navbar{
     display: flex;
 }
